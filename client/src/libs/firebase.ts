@@ -2,6 +2,8 @@ import { initializeApp } from 'firebase/app'
 import { getAuth } from 'firebase/auth'
 import { getFirestore } from 'firebase/firestore'
 
+
+// Example API KEYS
 const firebaseConfig = {
   apiKey: 'AIzaSyCiJSetFgX0RWfT-4GfS05ik1MCxTn4eYQ',
   authDomain: 'code-space-86218.firebaseapp.com',
